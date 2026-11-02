@@ -1,0 +1,9 @@
+1. Pieczywo
+2. Owoce
+3. Warzywa
+4. Pieczywo pakowane
+5. Mięso
+6. Nabiał
+7. Makarony i sosy
+8. Artykuły w proszku, typu mąka
+9. Chipsy i alkohol
